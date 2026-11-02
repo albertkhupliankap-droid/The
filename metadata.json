@@ -1,0 +1,6 @@
+{
+  "name": "Zogam Mobile",
+  "description": "Realistic multiplayer battle royale game featuring tactical combat, Zogam-inspired maps, vehicles, weapons, and ZOGAM PASS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
